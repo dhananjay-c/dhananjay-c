@@ -13,7 +13,7 @@
 
 
 
-<div align="center" style="width:10%; height: 50%;display:flex; justify-content:space-between; flex-wrap: wrap;">
+<div align="center">
     
 <span><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
