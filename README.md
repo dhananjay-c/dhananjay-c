@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/38/1c/63/381c630b05c0e00afe8f986acb8658b6.gif" align="center" style="width: 100%" />
+<img src="https://giffiles.alphacoders.com/209/209037.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -21,7 +21,7 @@
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -31,7 +31,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
