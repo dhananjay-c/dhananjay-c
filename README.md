@@ -13,11 +13,11 @@
 
 
 
-<div align="center">
+<div align="center" style="width:10%; height: 50%;display:flex; justify-content:space-between; flex-wrap: wrap;">
     
 <span><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
-            height="50" /></a></span>&nbsp;&nbsp;
+            height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
             height="50" /></a></span>&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
             height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator"
-            height="50" /></a></span>&nbsp;&nbsp;&nbsp;<br><br>
+            height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign"
             height="50" /></a></span>&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@
             height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
-            height="50" /></a></span>&nbsp;&nbsp;&nbsp;<br><br>
+            height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://jquery.com/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery"
             height="50" /></a></span>&nbsp;&nbsp;&nbsp;
