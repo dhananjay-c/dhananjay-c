@@ -70,11 +70,12 @@
 ## <div align="center">Connect with me</div>  
 <div align="center">
 <a href="https://github.com/dhananjay-c" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo" Color=white alt=github style="margin-bottom: 5px;" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/Dhananjay Chavan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo" Color=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+  
 </div>  
   
 
