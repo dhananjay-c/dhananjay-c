@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Hi👋, I'm Dhananjay Chavan. Tech enthusiast passionate about full-stack Web Development and Cyber Security. Committed to building secure, user-friendly digital solutions 🤖.</div>  
+# <div align="center">Greetings! 👋  I'm Dhananjay, an aficionado of cybersecurity 👨🏻‍💻 and networking! 🌐 My fervor lies in delving into the nuances of cybersecurity and networking, where I eagerly explore their intricacies to guarantee the development of robust and resilient systems.</div>  
   
 
 <br/>  
